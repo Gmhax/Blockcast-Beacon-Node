@@ -90,7 +90,7 @@ docker compose exec blockcastd blockcastd init
 - Click "Register Node"
 
 ✅ Done!
-- Check your node status on the dashboard. Make sure it shows online and synced.
+- Check your node status on the dashboard. wait 5-10 minutes to shows online and synced.
 
 
 
