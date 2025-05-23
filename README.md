@@ -14,7 +14,7 @@ A step-by-step guide to install and register a Blockcast beacon node on Ubuntu/L
 ## 📌 Prerequisites
 
 1. **Register an Account**
-   - Sign up at [https://app.blockcast.network?referral-code=0oP2QK](https://app.blockcast.network)
+   - [Blockcast Network](https://app.blockcast.network?referral-code=0oP2QK)
 
 2. **Create and Link a Wallet**
    - Use [Phantom](https://phantom.app) or [Solflare](https://solflare.com) to create a wallet.
